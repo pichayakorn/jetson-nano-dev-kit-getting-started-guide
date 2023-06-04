@@ -21,6 +21,7 @@
     - [Setup Steps](#setup-steps-1)
     - [First Boot](#first-boot-1)
     - [After Logging In](#after-logging-in-1)
+- [Another Related Topics](#another-related-topics)
 
 # Introduction
 
@@ -359,3 +360,8 @@ A green LED next to the Micro-USB connector will light as soon as the developer 
 ### After Logging In
 
 You will see a standard Linux command line prompt in your serial terminal application. Congratulations!
+
+# Another Related Topics
+
+- [Dedicated Cooling Fan for Jetson Nano 4020 PWM 5V 4-Pin](docs/waveshare/fan-4020-pwm-5v.md)
+- [Enable / Disable UI in Jetson Nano](docs/jetson-nano/ui.md)
