@@ -365,3 +365,4 @@ You will see a standard Linux command line prompt in your serial terminal applic
 
 - [Dedicated Cooling Fan for Jetson Nano 4020 PWM 5V 4-Pin](docs/waveshare/fan-4020-pwm-5v.md)
 - [Enable / Disable UI in Jetson Nano](docs/jetson-nano/ui.md)
+- [ArduCam: Nvidia Jetson Camera](docs/arducam/nvidia-jetson-camera.md)
