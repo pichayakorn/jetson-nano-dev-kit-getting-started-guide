@@ -19,6 +19,7 @@
     - [After Logging In](#after-logging-in)
   - [Initial Setup Headless Mode](#initial-setup-headless-mode)
     - [Setup Steps](#setup-steps-1)
+  - [Network (optional)](#network-optional)
     - [First Boot](#first-boot-1)
     - [After Logging In](#after-logging-in-1)
 - [Another Related Topics](#another-related-topics)
@@ -347,6 +348,14 @@ To terminate your screen session, press `C-a + k` (`Ctrl` + `a`, then `k`), then
 </details>
 
 Once connected to the developer kit, hit `SPACE` if the initial setup screen does not appear automatically.
+
+## Network (optional)
+
+Network Manager Text User Interface, the `nmtui` is yet another handy tool that allows you to easily configure your network interfaces in Linux distributions using a graphical display by invoking the `nmtui` command straight from the terminal.
+
+```sh
+sudo nmtui
+```
 
 ### First Boot
 
